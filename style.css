@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgba(238, 230, 230, 0.822);
+}
+h2, h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+    color: rgb(226, 43, 180);
+}
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+a{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(226, 43, 180);
+    font-weight: 900;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul{
+    font-family: 'Open Sans Condensed', sans-serif;
+    position: relative;
+    margin-left: 47%;
+    margin-top: -78.5%;
+    
+}
+
+li{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
